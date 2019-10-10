@@ -4,6 +4,8 @@ Monolingual corpus scraped from English-language newspapers in Nepal. Main purpo
 ## Files
 The source articles are zipped inside `source` folder and the consolidated sentence-level files are in the root directory.
 
+The lists of links that have been crawled are inside `crawl-lists` folder. These can be ignored in your own crawls if you need more data.
+
 ## Crawls
 1. October 9, 2019 (The Kathmandu Post):  3849 article items, 115890 sentences after removing repetitions
 2. October 10, 2019 (The Annapurna Express): 385 article items, 15263 sentences
