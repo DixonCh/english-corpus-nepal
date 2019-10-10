@@ -5,4 +5,4 @@ Monolingual corpus scraped from English-language newspapers in Nepal. Main purpo
 The source articles are zipped inside `source` folder and the consolidated sentence-level files are in the root directory.
 
 ## Crawls
-1. October 9, 2019 (The Kathmandu Post):  3849 article items, 115890 sentences after removing repetions
+1. October 9, 2019 (The Kathmandu Post):  3849 article items, 115890 sentences after removing repetitions
