@@ -6,3 +6,5 @@ The source articles are zipped inside `source` folder and the consolidated sente
 
 ## Crawls
 1. October 9, 2019 (The Kathmandu Post):  3849 article items, 115890 sentences after removing repetitions
+2. October 10, 2019 (The Annapurna Express): 385 article items, 15263 sentences
+3. October 10, 2019 (Republica): 6087 items, 121858 sentences
